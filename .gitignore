@@ -1,47 +1,15 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+/ch14_ex1_email/build/
+/ch14_ex1_email/nbproject/private/
+/ch16_ex1_admin/nbproject/private/
+/ch17_ex1_password/build/
+/ch17_ex1_password/nbproject/private/
+/ch18_ex1_http/build/
+/ch18_ex1_http/nbproject/private/
+/ch19_ex1_cart/nbproject/private/
+/ch20_ex1_download/nbproject/private/
+/ch21_ex1_email/nbproject/private/
+/ch23_ex1_musicStore/build/
+/ch23_ex1_musicStore/dist/
+/ch23_ex1_musicStore/nbproject/private/
+/ch23_ex2_musicStoreJPA/build/
+/ch23_ex2_musicStoreJPA/nbproject/private/
